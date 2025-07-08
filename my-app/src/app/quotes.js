@@ -1,22 +1,37 @@
 const quotes = [
+  [
+    "A thorough understanding of the typical mating continuations makes the most complicated sacrificial combinations leading up to them not only not difficult, but almost a matter of course.",
+    "Siegbert Tarrasch",
+  ],
 
-	["A thorough understanding of the typical mating continuations makes the most complicated sacrificial combinations leading up to them not only not difficult, but almost a matter of course.",
-	"Siegbert Tarrasch"],
+  [
+    "Personally, I rather look forward to a computer program winning the world Chess Championship. Humanity needs a lesson in humility.",
+    "Richard Dawkings",
+  ],
 
-	["Personally, I rather look forward to a computer program winning the world Chess Championship. Humanity needs a lesson in humility.", "Richard Dawkings"],
+  [
+    "Chess is a foolish expedient for making idle people believe they are doing something very clever when they are only wasting their time.",
+    "George Bernard Shaw",
+  ],
 
-	["Chess is a foolish expedient for making idle people believe they are doing something very clever when they are only wasting their time.", "George Bernard Shaw"], 
+  [
+    "Mistrust is the most necessary characteristic of the chess player.",
+    "Siegbert Tarrasch",
+  ],
 
-	["Mistrust is the most necessary characteristic of the chess player.", "Siegbert Tarrasch"],
+  ["All Chess players should have a hobby.", "Savielly Tartakower"],
 
-	["All Chess players should have a hobby.", "Savielly Tartakower"],
+  [
+    "It is the aim of the modern school, not to treat every position according to one general law, but according to the principle inherent in the position",
+    "Richard Reti",
+  ],
 
-	["It is the aim of the modern school, not to treat every position according to one general law, but according to the principle inherent in the position", "Richard Reti"],
+  ["The only thing chess players have in common is chess.", "Lodewijk Prins"],
 
-	["The only thing chess players have in common is chess.", "Lodewijk Prins"],
-
-	["We must make sure that Chess will not be like a dead language, very interesting, but for a very small group.", "Sytze Faber"],
-
+  [
+    "We must make sure that Chess will not be like a dead language, very interesting, but for a very small group.",
+    "Sytze Faber",
+  ],
 
   [
     "Modern Chess is too much concerned with things like Pawn structure. Forget it, Checkmate ends the game.",
@@ -86,9 +101,7 @@ const quotes = [
     "Alexander Alekhine",
   ],
 
-  ["Chess is above all, a fight!",
-   "Emmanuel Lasker"
-  ],
+  ["Chess is above all, a fight!", "Emmanuel Lasker"],
 
   [
     "The passed Pawn is a criminal, who should be kept under lock and key. Mild measures, such as police surveillance, are not sufficient.",
@@ -112,101 +125,79 @@ const quotes = [
     "Catherynne M. Valente",
   ],
 
-  ["I’d rather have a Pawn than a finger.", "Reuben Fine"],
+  ["I’d rather have a pawn than a finger.", "Reuben Fine"],
+  ["When in doubt, play chess.", "Michael Tevis"],
+  [
+    "The winner of the game is the person who makes the next-to-last mistake.",
+    "Savielly Tartakower",
+  ],
+  ["The mistakes are all there waiting to be made.", "Savielly Tartakower"],
+  [
+    "No price is too great for the scalp of the enemy King.",
+    "Alexander Koblencs",
+  ],
+  ["The threat is stronger than the execution.", "Aron Nimzowitsch"],
+  [
+    "I found that I was frequently underestimating the bishop pair as a long-term asset.",
+    "Sam Shankland",
+  ],
+  [
+    "Even the laziest King flees wildly in the face of a double check!",
+    "Aron Nimzowitsch",
+  ],
+  [
+    "A win by an unsound combination, however showy, fills me with artistic horror.",
+    "Wilhelm Steinitz",
+  ],
+  [
+    "One doesn't have to play well, it's enough to play better than your opponent.",
+    "Siegbert Tarrasch",
+  ],
+  [
+    "You must take your opponent into a deep dark forest where 2+2=5, and the path leading out is only wide enough for one.",
+    "Mikhail Tal",
+  ],
+
+  [
+    "It is to Petrosian's advantage that his opponents never know when he is suddenly going to play like Mikhail Tal.",
+    "Boris Spassky",
+  ],
+
+  [
+    "Tactics is knowing what to do when there is something to do. Strategy is knowing what to do when there is nothing to do.",
+    "Savielly Tartakower",
+  ],
+
+  ["The move is there, but you must see it.", "Savielly Tartakower"],
+
+  [
+    "That which has reached us from the discoveries of their clear thinking and the marvels of their inventions is the (game) of chess. The Indians have, in the construction of its cells, its double numbers, its symbols and secrets, reached the forefront of knowledge.",
+    "Said al-Andalusi",
+  ],
+
+  ["It is eminently and emphatically the philosopher's game.", "Paul Morphy"],
+
+  ["The checkmate is the 'knockout' of chess.", "Bobby Fischer"],
+
+  [
+    "Chess games are being played everywhere -- on benches and tables in the park, at Chess clubs, YMCAs, high schools, colleges, army posts, prisons. Even by mail. You shouldn't have any trouble getting a game.",
+    "Bobby Fischer",
+  ],
+
+  ["A good player is always lucky.", "Jose Capablanca"],
+
+  [
+    "It doesn’t matter how strong a player you are, if you fail to register some development in the opening, then you are asking for trouble.",
+    "John Emms",
+  ],
+
+  [
+    "For in the idea of chess and the development of the chess mind we have a picture of the intellectual struggle of mankind.",
+    "Richard Réti",
+  ],
+
+  [
+    "In chess, as a purely intellectual game, where randomness is excluded, - for someone to play against himself is absurd ... It is as paradoxical, as attempting to jump over his own shadow.",
+    "Stephan Zweig",
+  ],
 ];
-
-
-
-
-When in doubt, play chess
-Michael Tevis
-
-I threw my phone off the Brooklyn Bridge. Chess demands total concentration
-Chess hustler [FIND THE NAME OF THIS GUY ONLINE]
-
-I am smarter than you. Do you know why? Because you came to me with your problem.
-Unknown chess hustler, Washington Square Park, when I approached him
-
-Pawns are the soul of chess.
-François-André Philidor
-
-The winner of the game is the person who makes the next-to-last mistake.
-Savielly Tartakower
-
-The mistakes are all there waiting to be made
-Savielly Tartakower
-
-Modern chess theory is too obsessed with things like pawn structure. Forget it, checkmate ends the game.
-Nigel Short
-
-All chess players should have a hobby.
-Savielly Tartakower
-
-I'd rather have a pawn than a finder.
-Rueben Fine
-
-No price is too great for the scalp of the enemy King.
-Alexander Koblencs
-
-You've lost, you just don't know it yet.
-Josh Waitzkin
-
-The threat is stronger than the execution.
-Aron Nimzowitsch
-
-I found that I was frequently underestimating the bishop pair as a long-term asset.
-Sam Shankland
-
-Even the laziest King flees wildly in the face of a double check!
-Aron Nimzowitsch
-
-A win by an unsound combination, however showy, fills me with artistic horror.
-Wilhelm Steinitz
-
-One doesn't have to play well, it's enough to play better than your opponent.
-Siegbert Tarrasch
-
-Let the chessboard supercede the card table, and a great improvement will be visible in the morals of the community.
-Paul Morphy
-
-You must take your opponent into a deep dark forest where 2+2=5, and the path leading out is only wide enough for one.
-Mikhail Tal
-
-It is to Petrosian's advantage that his opponents never know when he is suddenly going to play like Mikhail Tal.
-Boris Spassky
-
-Tactics is knowing what to do when there is something to do. Strategy is knowing what to do when there is nothing to do.
-Savielly Tartakower
-
-The move is there, but you must see it.
-Savielly Tartakower
-
-That which has reached us from the discoveries of their clear thinking and the marvels of their inventions is the (game) of chess. The Indians have, in the construction of its cells, its double numbers, its symbols and secrets, reached the forefront of knowledge. 
-Said al-Andalusi
-
-It is eminently and emphatically the philosopher's game.
-Paul Morphy
-
-My life was in crisis. All my values were becoming meaningless. I was discovering that my chosen profession was empty, foolish, as useless as—as playing chess. 
-Robert Silverberg
-
-Shall we play Bezique? Or Nightjack? I’ve cards, or chess if you prefer, but I’ve always found chess to be a bit too much like real life to provide much enjoyment as a game. 
-Catherynne Valente
-
-The checkmate is the "knockout" of chess.
-Bobby Fischer
-
-Chess games are being played everywhere -- on benches and tables in the park, at Chess clubs, YMCAs, high schools, colleges, army posts, prisons. Even by mail. You shouldn't have any trouble getting a game.
-Bobby Fischer
-
-A good player is always lucky.
-Jose Capablanca
-
-It doesn’t matter how strong a player you are, if you fail to register some development in the opening, then you are asking for trouble.
-John Emms
-
-For in the idea of chess and the development of the chess mind we have a picture of the intellectual struggle of mankind.
-Richard Réti
-
-In chess, as a purely intellectual game, where randomness is excluded, - for someone to play against himself is absurd ... It is as paradoxical, as attempting to jump over his own shadow.
-Stephan Zweig
