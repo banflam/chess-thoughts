@@ -15,7 +15,7 @@
      id="layer1">
     <path
        id="path4162"
-       style="fill:#333333;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       style="fill:#f5f5dc;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
        d="m 29.102703,26.878026 c 1.21018,-1.133584 1.897296,-2.718766 1.897295,-4.378027 v 0 c 0,-2.182669 -1.185295,-4.193168 -3.095305,-5.24982 C 28.607951,16.507355 29,15.523124 29,14.5 v 0 c 0,-2.209139 -1.790861,-4 -4,-4 -2.209139,0 -4,1.790861 -4,4 0,1.023125 0.392049,2.007356 1.096173,2.7497 C 20.186058,18.305585 19,20.31662 19,22.499999 c 0,1.659261 0.687116,3.244444 1.897297,4.378041 -4.298628,2.758315 -6.897298,7.514665 -6.897298,12.621911 l 22.000003,2e-6 c -1e-6,-5.107248 -2.598671,-9.863598 -6.897299,-12.621927 z" />
   </g>
 </svg>
