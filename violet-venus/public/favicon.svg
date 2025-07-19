@@ -2,11 +2,11 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   id="svg5"
-   version="1.1"
-   viewBox="0 0 50 50"
-   height="50mm"
    width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg5"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -14,8 +14,57 @@
   <g
      id="layer1">
     <path
-       id="path4162"
        style="fill:#f5f5dc;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-       d="m 29.102703,26.878026 c 1.21018,-1.133584 1.897296,-2.718766 1.897295,-4.378027 v 0 c 0,-2.182669 -1.185295,-4.193168 -3.095305,-5.24982 C 28.607951,16.507355 29,15.523124 29,14.5 v 0 c 0,-2.209139 -1.790861,-4 -4,-4 -2.209139,0 -4,1.790861 -4,4 0,1.023125 0.392049,2.007356 1.096173,2.7497 C 20.186058,18.305585 19,20.31662 19,22.499999 c 0,1.659261 0.687116,3.244444 1.897297,4.378041 -4.298628,2.758315 -6.897298,7.514665 -6.897298,12.621911 l 22.000003,2e-6 c -1e-6,-5.107248 -2.598671,-9.863598 -6.897299,-12.621927 z" />
+       d="M 15.5,33.7259 11.999886,16.000095 19.167,32.7582 18.198756,13.021548 23.0535,32.5258 24.999526,11.999992 26.9472,32.5258 31.800535,13.021337 30.8317,32.7581 38,16 34.5,33.7259"
+       id="path7968" />
+    <path
+       id="path8661"
+       style="fill:#f5f5dc;stroke:#000000;stroke-width:0.999995;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal;fill-opacity:1"
+       d="m 15.499998,38.274314 v -4.548425 c -2e-6,-0.677041 4.253294,-1.225892 9.500002,-1.225892 5.246705,0 9.500003,0.548851 9.500002,1.225892 v 4.548425" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="path6173"
+       cx="25"
+       cy="38.274311"
+       rx="9.5"
+       ry="1.2258919" />
+    <path
+       id="ellipse6504"
+       style="fill:none;stroke:#000000;stroke-width:0.999995;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+       d="m 15.499998,36.000065 c -2e-6,-0.677039 4.253294,-1.225894 9.500002,-1.225894 5.246705,0 9.500003,0.548855 9.500002,1.225894" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="path9119"
+       cx="12"
+       cy="15.999999"
+       r="1.5" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="circle9201"
+       cx="18.198755"
+       cy="13.021548"
+       r="1.5" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="circle9403"
+       cx="25"
+       cy="12"
+       r="1.5" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="circle9405"
+       cx="31.800535"
+       cy="13.021337"
+       r="1.5" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="circle9407"
+       cx="38.07383"
+       cy="15.988601"
+       r="1.5" />
+    <path
+       id="path10984"
+       style="fill:none;stroke:#000000;stroke-width:0.999995;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+       d="M 15.5 33.7259 C 15.5 33.4626 16.1433 33.2187 17.2382 33.0189 C 17.7788 32.9202 18.4294 32.8324 19.167 32.7582 C 19.7613 32.6985 20.4121 32.6477 21.1072 32.6073 C 21.7238 32.5715 22.3754 32.544 23.0535 32.5258 C 23.6818 32.5089 24.3329 32.5 25 32.5 C 25.6674 32.5 26.3187 32.5089 26.9472 32.5258 C 27.6247 32.544 28.2758 32.5715 28.892 32.6073 C 29.5869 32.6476 30.2375 32.6984 30.8317 32.7581 C 31.5696 32.8322 32.2205 32.9201 32.7613 33.0188 C 33.8565 33.2186 34.5 33.4625 34.5 33.7259" />
   </g>
 </svg>
