@@ -3,7 +3,7 @@ type Quote = {
 	author: string;
 };
 
-const quotes = [
+const quotes: Quote[] = [
   [
     "A thorough understanding of the typical mating continuations makes the most complicated sacrificial combinations leading up to them not only not difficult, but almost a matter of course.",
     "Siegbert Tarrasch",
