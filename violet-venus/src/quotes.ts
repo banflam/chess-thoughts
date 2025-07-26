@@ -5,6 +5,22 @@ type Quote = {
 
 const quotes: Quote[] = [
   {
+    text: "They say my chess games should be more interesting. I could be more interesting — and also lose.",
+    author: "Tigran Petrosian",
+  },
+  {
+    text: "Some consider that when I play I am excessively cautious, but it seems to me that the question may be a different one. I try to avoid chance. Those who rely on chance should play cards or roulette. Chess is something quite different.",
+    author: "Tigran Petrosian",
+  },
+  {
+    text: "Chess never has been and never can be aught but a recreation. It should not be indulged in to the detriment of other and more serious avocations.",
+    author: "Paul Morphy",
+  },
+  {
+    text: "In my opinion, the King's Gambit is busted. It loses by force.",
+    author: "Bobby Fischer",
+  },
+  {
     text: "Chess is simply a medium through which concentration and a higher state of mind is achieved... it is like contemplating your navel, only better.",
     author: "Jon Speelman",
   },
