@@ -5,6 +5,26 @@ type Quote = {
 
 const quotes: Quote[] = [
   {
+    text: "Chess is simply a medium through which concentration and a higher state of mind is achieved... it is like contemplating your navel, only better.",
+    author: "Jon Speelman",
+  },
+  {
+    text: "Alekhine is a poet who creates a work of art out of something that would hardly inspire another man to send home a picture post card.",
+    author: "Max Euwe",
+  },
+  {
+    text: "The fact that a player is very short of time is, to my mind, as little to be considered as an excuse as, for instance, the statement of the law-breaker that he was drunk at the moment he committed the crime.",
+    author: "Alexander Alekhine",
+  },
+  {
+    text: "During a chess competition a chess master should be a combination of a beast of prey and a monk.",
+    author: "Alexander Alekhine",
+  },
+  {
+    text: "It has been truly said that Morphy was at once the Caesar and the Napoleon of chess. He revolutionized chess. He brought life and dash and beauty into the game at a time when an age of dullness was about to set in and he did this at a stroke. Then he quit forever. Only two years from the beginning to the end. The negotiations for some modern matches have taken that long!",
+    author: "JA Galbreath",
+  },
+  {
     text: "A thorough understanding of the typical mating continuations makes the most complicated sacrificial combinations leading up to them not only not difficult, but almost a matter of course.",
     author: "Siegbert Tarrasch",
   },
