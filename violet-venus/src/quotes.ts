@@ -5,6 +5,10 @@ type Quote = {
 
 const quotes: Quote[] = [
   {
+    text: "Real total restraint, which reigns over whole stretches of the board and which gives your opponent breathing difficulties, is only possible when that opponent is suffering from the disadvantage of doubled pawns.",
+    author: "Aron Nimzowitsch",
+  },
+  {
     text: "They say my chess games should be more interesting. I could be more interesting — and also lose.",
     author: "Tigran Petrosian",
   },
@@ -269,3 +273,5 @@ const quotes: Quote[] = [
     author: "Stephan Zweig",
   },
 ];
+
+export default quotes;
