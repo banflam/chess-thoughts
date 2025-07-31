@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import quotes from "../quotes.ts";
 
 function randomQuoteSelector() {
-  const [selected, setSelected] = useState(null);
+  const [selected, setSelected] = useState("Default quote");
 
   const selectRandom = () => {
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
